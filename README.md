@@ -98,7 +98,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 [![WhatsApp Web](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=whatsapp_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/whatsapp_web)
 
-</div>
+</div> -->
 
 ---
 
