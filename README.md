@@ -83,7 +83,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-coderzhunt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umar-coderzhunt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com/?user=umar-coderzhunt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
 </div>
 
@@ -98,17 +98,23 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 ---
 
-<!-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Portfolio App](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=Portfolio_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/Portfolio_App)
+[![Portfolio Native App](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=portfolio-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/portfolio-native-app)
 
-[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=Real_Estate_NFT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/Real_Estate_NFT)
+[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=real-estate-nft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/real-estate-nft)
 
-[![WhatsApp Web](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=whatsapp_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/whatsapp_web)
+[![Fetch Dog Adoption](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=fetch-dog-adoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/fetch-dog-adoption)
 
-</div> -->
+[![Tech Care](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=tech-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/tech-care)
+
+[![Flip Code](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=flip-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/flip-code)
+
+[![Donation DApp](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=donation-dapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/donation-dapp)
+
+</div>
 
 ---
 
@@ -119,7 +125,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaaarf8)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Umaaarf8)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Umaaarf8)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://umaar.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://umaar.com)
 
 </div>
 
