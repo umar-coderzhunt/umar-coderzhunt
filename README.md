@@ -83,7 +83,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-coderzhunt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umar-coderzhunt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umar-coderzhunt&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umar-coderzhunt&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
 
